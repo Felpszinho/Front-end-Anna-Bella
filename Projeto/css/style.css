@@ -1,0 +1,57 @@
+body{
+    background: url("/img/fundo.png");
+    font:16px arial,helvetica,sans-serif;
+    
+    
+    
+}
+.principal{
+    
+    width: 900px;
+    background:"/img/capa.png";
+    
+  
+    
+   
+   
+}
+.principal img{
+    border-radius: 25px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.menu{
+    background: #c5c5d2;
+  
+    padding: 25px;
+    
+}
+ a{
+    
+    
+    color:rgb(174, 14, 238);
+    text-decoration: none;
+    padding: 5px;
+    font-weight: bold;
+    
+}
+.conteudo{
+    text-align: center;
+    width: 900px;
+    background:#e8e8d9;
+    padding: 10px;
+}
+ h1{
+    font-weight: bold;
+    text-decoration: none;
+    padding:5px;
+    color:#4b566a;
+}
+.centralizar{
+    text-align: center;
+}
+.conteudo img{
+    border: 10px solid #c5c5d2;
+    border-radius: 35px;
+ }
